@@ -1,6 +1,7 @@
 INSTRUCTIONS:
 
-Hello welcome to group 9’s README on our term project! Running our game is quite simple and I hope you enjoy it.
+Hello welcome to group 9’s README on our term project! All collaborations were originally done through SFU's gitlabs so this just displays our end product. 
+Running our game is quite simple and I hope you enjoy it.
 
 To run the game I suggest you follow these steps.
 
